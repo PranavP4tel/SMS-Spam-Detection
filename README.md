@@ -1,6 +1,9 @@
 # SMS-Spam-Detection
 Worked with a dataset containing text and labels indicating the messages as spam or ham.
+
 Dataset - https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+Since there are issues in GitHub with Jupyter Notebook rendering, you can view the notebook via this link - https://colab.research.google.com/drive/16C5WncrNEIZYaGI1rHgLqGWnv_M7hUXs?usp=sharing
 
 ---
 Workflow:
